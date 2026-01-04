@@ -6,7 +6,7 @@
 
 **AI駆動開発全盛の時代でも、基礎力と正しい開発フローを身につけたエンジニアを育成する**
 
-[![GitHub](../img/logo.png)](https://github.com/honeycome-bootcamp)
+[<img src="../img/logo.png" alt="GitHub" width="32" height="32">](https://github.com/honeycome-bootcamp)
 
 [📋 料金表](docs/pricing.md) | [📢 詳細資料](docs/promotional-material.md) | [📧 お問い合わせ](mailto:info@honeycome.biz)
 
