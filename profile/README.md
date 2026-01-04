@@ -1,77 +1,161 @@
+<div align="center">
+
+![Honeycome Bootcamp](.github/eyecatch.svg)
+
 # Honeycome エンジニア研修 Bootcamp
 
-## 👋 ようこそ
+**AI駆動開発全盛の時代でも、基礎力と正しい開発フローを身につけたエンジニアを育成する**
 
-**Honeycome エンジニア研修 Bootcamp**は、AI駆動開発全盛の時代でも、基礎力と正しい開発フローを身につけたエンジニアを育成するための研修プログラムです。
+[![GitHub](.github/github-icon.svg)](https://github.com/honeycome-bootcamp)
 
-## 🎯 研修の目的
+[📋 料金表](docs/pricing.md) | [📢 詳細資料](docs/promotional-material.md) | [📧 お問い合わせ](mailto:info@honeycome.biz)
 
-AIコーディング支援ツール（Cursor、GitHub Copilot、ChatGPT等）が普及する中、以下の能力が重要になっています：
+</div>
 
-1. **AIの間違いを見抜く力** - 基礎知識がないと、AIの出力が正しいか判断できない
-2. **開発の正しいフローを知る** - AIに振り回されず、目的を持ってAIを活用できる
-3. **しっかりとした土台を作る** - 一度は自分の手を動かして作る経験
+---
 
-## 📚 リポジトリ
+## 🎯 こんな方におすすめ
 
-### メインリポジトリ
+- ✅ **プログラミング未経験からエンジニアを目指したい方**
+- ✅ **エンジニアに転職したい方**
+- ✅ **現役エンジニアでスキルアップしたい方**
+- ✅ **企業で社員教育を検討している方**
 
-- **[bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2)** - 研修コンテンツと学習リソース
-  - 学習コンテンツ（共通基礎、Web、モバイル、IoT）
-  - 実践課題と理解度チェックテスト
-  - 自動化システム（テスト実行、フィードバック生成、進捗管理）
-  - 研修生向け・メンター向けドキュメント
+---
 
-### メンター専用リポジトリ
+## ✨ 研修の特徴
 
-- **[bootcamp-v2-mentor](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor)** - メンター専用ドキュメント（プライベート）
-  - メンター用運用ガイド
-  - 料金関係の資料
-  - 営業・セールス資料
+### 🚀 圧倒的な価格競争力
 
-> 🔐 メンター専用リポジトリはプライベートリポジトリです。メンターと管理者のみがアクセスできます。
+| 類似サービス | 料金 | 本研修 | 比較 |
+|-------------|------|--------|------|
+| TECH CAMP | 690,800円 | **98,000円** | **約1/7** |
+| SAMURAI ENGINEER | 778,800円 | **98,000円** | **約1/8** |
+| フィヨルドブートキャンプ | 99,800円/月 | **39,800円/月** | **約40%** |
 
-## 🎓 コース
+**Webコース10万円未満**で、類似サービスを圧倒する低価格を実現。
 
-| コース | 対象 | 期間 | リポジトリ |
-|--------|------|------|-----------|
-| **Webエンジニアコース** | Web開発を学びたい方 | 1-1.5ヶ月 | [bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2) |
-| **iOS/Androidアプリエンジニアコース** | モバイルアプリ開発を学びたい方 | 1-1.5ヶ月（Webコース後は0.5-1ヶ月） | [bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2) |
-| **IoTエンジニアコース** | IoT開発を学びたい方 | 1-1.5ヶ月 | [bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2) |
+### ⚡ 短期集中型
 
-> 💰 **料金について**: 詳細な料金プランは[料金表](docs/pricing.md)をご覧ください。
-> 📢 **広告資料**: 研修の詳細な説明や営業資料は[広告資料・研修解説](docs/promotional-material.md)をご覧ください。
+- **期間**: 1-2ヶ月（他社は3-6ヶ月）
+- **学習時間**: 160-240時間
+- 無駄を省いた効率的なカリキュラム
 
-## 🚀 始め方
+### 🤖 自動化による高品質・低コスト
 
-### 研修生の方へ
+- 自動テスト、自動レビュー、自動フィードバック
+- メンターは「設計」「成長支援」に集中
+- 低コストで高品質なサポートを実現
 
-1. [bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2)リポジトリをクローン
-2. [研修生向けクイックスタート](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/student-quick-start.md)を読む
-3. [研修生向けガイド](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/student-guide.md)で詳細を確認
-4. 共通基礎から学習を開始
+### 🌐 完全オンライン
 
-> 💡 **経験のあるエンジニアの方へ**: AI駆動開発を許可される前に、[経験エンジニア向け AI駆動開発前提条件コース](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/experienced-engineer-prerequisites.md)を完了してください。
+- 場所の制約なし、全国から受講可能
+- 自分のペースで学習可能
+- リモートワーク時代に対応
 
-### メンターの方へ
+### 🎓 実践的なカリキュラム
 
-1. [bootcamp-v2-mentor](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor)リポジトリにアクセス（メンターのみ）
-2. [メンター向けクイックスタート](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor/blob/main/docs/mentor-quick-start.md)を読む
-3. [メンター用運用ガイド](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor/blob/main/docs/mentor-guide.md)で詳細を確認
+- 理論だけでなく、実際に動くアプリケーションを作成
+- 各コースで成果物（ポートフォリオ）を完成
+- 就職・転職に活用できる実績を作成
 
-## 📖 主要ドキュメント
+---
 
-### 研修生向け
+## 🎓 コース紹介
 
-- [研修生向けガイド](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/student-guide.md) - 詳細な学習ガイド
-- [研修生向けクイックスタート](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/student-quick-start.md) - 最初に読む簡易版
-- [カリキュラム概要](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/curriculum-overview.md) - 学習内容の全体像
-- [経験エンジニア向け AI駆動開発前提条件コース](https://github.com/honeycome-bootcamp/bootcamp-v2/blob/main/docs/experienced-engineer-prerequisites.md) - 経験エンジニア向け
+| コース | 対象 | 期間 | 料金（税込） |
+|--------|------|------|-------------|
+| **🌐 Webエンジニアコース** | Web開発を学びたい方 | 4-6週間 | **98,000円** |
+| **📱 モバイルアプリコース** | モバイルアプリ開発を学びたい方 | 4-6週間 | **98,000円** |
+| **🔌 IoTエンジニアコース** | IoT開発を学びたい方 | 4-6週間 | **128,000円**<br>※ハードウェア購入費別途 |
 
-### メンター向け
+> 💰 **詳細な料金情報**: [料金表](docs/pricing.md)をご覧ください
 
-- [メンター用運用ガイド](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor/blob/main/docs/mentor-guide.md) - 詳細な運用ガイド（メンター専用リポジトリ）
-- [メンター向けクイックスタート](https://github.com/honeycome-bootcamp/bootcamp-v2-mentor/blob/main/docs/mentor-quick-start.md) - 最初に読む（メンター専用リポジトリ）
+### 🎁 割引制度
+
+- **新卒・学生割引**: 50%OFF（Web/モバイル: 49,000円、IoT: 64,000円）
+- **早期申込割引**: 10%OFF
+- **友人紹介割引**: 5,000円OFF（双方）
+- **リピーター割引**: 30%OFF（2コース目以降）
+
+---
+
+## 📚 カリキュラム構成
+
+### Phase 1: 共通基礎（2-3週間・必須）
+
+全コースで共通して学ぶ基礎知識です。
+
+- Git基礎、プログラミング基礎（TypeScript）
+- ソフトウェア設計、データベース基礎
+- テストと品質、セキュリティ基礎
+- インフラ基礎、CI/CD基礎
+- **AI駆動開発**（Cursor、プロンプト、AIと協働）
+- 仕様駆動開発
+
+### Phase 2: 発展カテゴリ（1-2週間・選択）
+
+DevOps/インフラに興味がある方、実務で必要になる方におすすめ。
+
+- コンテナ発展、IaC入門、クラウド実践、監視と運用
+
+### Phase 3: コース別学習（2-3週間・必須）
+
+#### 🌐 Webエンジニアコース
+- React/Next.js、Node.js/Express
+- **成果物**: デプロイ済みのフルスタックWebアプリケーション
+
+#### 📱 モバイルアプリコース
+- Swift (iOS)、Kotlin (Android)、React Native
+- **成果物**: ストア公開準備完了のモバイルアプリ
+
+#### 🔌 IoTエンジニアコース
+- C/C++、Node.js、AWS IoT
+- **成果物**: 動作するIoTシステム
+
+> 📖 **詳細なカリキュラム**: [広告資料・研修解説](docs/promotional-material.md)をご覧ください
+
+---
+
+## 🏆 研修終了時のゴール
+
+研修終了時には、以下ができるようになります：
+
+- ✅ 基本的なアプリケーションを設計・実装できる
+- ✅ テストを書ける
+- ✅ デプロイ・運用ができる
+- ✅ Gitを使った協働開発ができる
+- ✅ コードレビューができる
+- ✅ **AIの出力が正しいか判断できる**
+- ✅ 実際に動く成果物（ポートフォリオ）を完成
+
+---
+
+## 📈 学習の流れ
+
+```
+1. コンテンツを読む
+   ↓
+2. 理解度チェックテスト
+   ↓
+3. 実践課題に取り組む
+   ↓
+4. PRで提出
+   ↓
+5. 自動テスト
+   ↓
+6. メンターレビュー
+   ↓
+7. 承認 → 次のカテゴリへ
+```
+
+### サポート体制
+
+- **メンター1on1**: 週1回30分（進捗確認、相談）
+- **Slack**: 技術的な質問、ナレッジ共有、相談
+- **自動テスト・レビュー**: 即座にフィードバック
+
+---
 
 ## 🛠️ 技術スタック
 
@@ -80,21 +164,55 @@ AIコーディング支援ツール（Cursor、GitHub Copilot、ChatGPT等）が
 - **モバイル**: Swift (iOS), Kotlin (Android), React Native
 - **IoT**: C/C++ (組み込み), TypeScript/Node.js (高レベル制御)
 
-## 🤝 コミュニティ
+---
 
-- **質問・相談**: Slack（技術的な質問、ナレッジ共有、相談）
-- **コンテンツ改善**: [GitHub Issues](https://github.com/honeycome-bootcamp/bootcamp-v2/issues)で報告・提案
+## 💡 よくある質問
 
-## 📧 お問い合わせ
+### Q: プログラミング未経験でも大丈夫ですか？
 
-研修に関するご質問、料金に関するお問い合わせは以下までご連絡ください。
+**A**: はい、大丈夫です。共通基礎から丁寧に学べるカリキュラムになっています。
 
-**お問い合わせ先**: info@honeycome.biz
+### Q: どのコースを選べばいいですか？
 
-## 📝 ライセンス
+**A**: 興味のある分野を選んでください。迷ったらWebコースがおすすめです。Webの知識は他のコースでも活用できます。
 
-Copyright © Honeycome Inc. All rights reserved.
+### Q: 期間内に終わらなかったらどうなりますか？
+
+**A**: ゴール達成を優先し、期間は柔軟に対応します。メンターと相談してください。
+
+### Q: AIツールを使ってもいいですか？
+
+**A**: はい、AI駆動開発を学ぶことも研修の一部です。ただし、AIの出力をそのまま使わず、必ず理解してから使うことが重要です。
+
+### Q: 1日どのくらい学習すればいいですか？
+
+**A**: 1日6-8時間を目安にしてください。無理せず、継続することが大切です。
 
 ---
 
+## 🚀 始め方
+
+1. **[bootcamp-v2](https://github.com/honeycome-bootcamp/bootcamp-v2)** リポジトリを確認
+2. [料金表](docs/pricing.md)で料金プランを確認
+3. [広告資料・研修解説](docs/promotional-material.md)で詳細を確認
+4. お問い合わせフォームからお申し込み
+
+---
+
+## 📧 お問い合わせ
+
+研修に関するご質問、料金に関するお問い合わせ、お申し込みは以下までご連絡ください。
+
+**お問い合わせ先**: [info@honeycome.biz](mailto:info@honeycome.biz)
+
+---
+
+<div align="center">
+
 **「AI駆動開発全盛の時代でも、基礎力と正しい開発フローを身につけたエンジニアを育成する」**
+
+価格面で類似サービスを圧倒！良質な教育をより多くの人に届けます。
+
+Copyright © Honeycome Inc. All rights reserved.
+
+</div>
